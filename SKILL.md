@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-two-skis-topic-alignment
-description: "Align local sentence subjects with global passage topics to eliminate reader vertigo." Use this when working on fitzpatrick two skis topic alignment.
+description: "Align local sentence subjects with global passage topics to eliminate reader vertigo. Use this when working on fitzpatrick two skis topic alignment."
 category: "Writing & Communication"
 triggers:
   - "two skis alignment"
